@@ -6,6 +6,6 @@ My name's Graham Harris. I'm an student coder living in New York looking for new
 \
 To learn more about me, head over to my [website](https://grahamwharris.com/).\
 \
-To reach me, email grahamh1019@gmail.com\
+To reach me, email grahamh1019@gmail.com
 
 
