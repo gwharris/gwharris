@@ -4,4 +4,6 @@ My name's Graham Harris. I'm an student coder living in New York who is looking 
 \
 To learn more about me, head over to my [website](https://grahamwharris.com/).\
 \
-To reach me, email grahamh1019@gmail.com
+To reach me, email grahamh1019@gmail.com\
+\
+[![Graham's github stats](https://github-readme-stats.vercel.app/api?username=gwharris)](https://github.com/anuraghazra/github-readme-stats)
