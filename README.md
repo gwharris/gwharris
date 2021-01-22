@@ -6,4 +6,4 @@ To learn more about me, head over to my [website](https://grahamwharris.com/).\
 \
 To reach me, email grahamh1019@gmail.com\
 \
-[![Graham's github stats](https://github-readme-stats.vercel.app/api?username=gwharris)](https://github.com/anuraghazra/github-readme-stats)
+[![Graham's github stats](https://github-readme-stats.vercel.app/api?username=gwharris&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
