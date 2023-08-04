@@ -2,10 +2,10 @@
 
 <img align="right" width="400" padding-left="10" src="https://github-readme-stats.vercel.app/api?username=gwharris&hide=contribs&title_color=2F4F2F"/>
 
-My name's Graham Harris. I'm a student coder living in New York City looking for new projects.\
+My name's Graham Harris. I'm a consultant at Capgemini US working in NYC. In my spare time, I'm a hobby horticulturist, video game enthusiast, and amateur chef.\
 \
-To learn more about me, head over to my [website](https://grahamwharris.com/).\
+To learn more about me, head over to my [website]([https://grahamwharris.com/](https://gwharris.github.io/)).\
 \
-Email graham.harris@nyu.edu to reach me!
+Email grahamh1019@gmail.com to reach me!
 
 
